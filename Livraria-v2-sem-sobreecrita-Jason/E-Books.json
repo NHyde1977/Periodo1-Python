@@ -1,0 +1,60 @@
+{
+    "ebooks": [
+        {
+            "id": 1,
+            "título": "1984",
+            "autor": "George Orwel",
+            "editora": "Citadel",
+            "gênero": "Ficção"
+        },
+        {
+            "id": 2,
+            "título": "Crime e castigo",
+            "autor": "Fiódor Dostoiévski",
+            "editora": "Principis",
+            "gênero": "Ficção"
+        },
+        {
+            "id": 3,
+            "título": "A Odisséia",
+            "autor": "Homero",
+            "editora": "Aleph",
+            "gênero": "Épico"
+        },
+        {
+            "id": 4,
+            "título": "O médico e o Monstro",
+            "autor": "Robert Louis Stevenson",
+            "editora": "Penguin",
+            "gênero": "Terror"
+        },
+        {
+            "id": 5,
+            "título": "A Caçada ao Outubro Vermelho",
+            "autor": "Tom Clancy",
+            "editora": "Naval Institute Press",
+            "gênero": "thriller tecnológico"
+        },
+        {
+            "id": 6,
+            "título": "A ilha do doutor Moreau",
+            "autor": "H.G.Wells",
+            "editora": "Record",
+            "gênero": "ficção científica"
+        },
+        {
+            "id": 7,
+            "título": "Portões de Fogo",
+            "autor": "Steven Pressfield",
+            "editora": "Record",
+            "gênero": "Épico"
+        },
+        {
+            "id": 8,
+            "título": "Ubik",
+            "autor": "Philip K. Dick",
+            "editora": "Aleph",
+            "gênero": "Ficção Científica"
+        }
+    ]
+}

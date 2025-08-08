@@ -1,0 +1,93 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.7.8">
+  <diagram id="OSRmP45oUQKWocFpca-e" name="Aprovado-na-disciplina">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ve_ScVZvAOvUn-qgx1SI-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ve_ScVZvAOvUn-qgx1SI-1" target="ve_ScVZvAOvUn-qgx1SI-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ve_ScVZvAOvUn-qgx1SI-1" value="Início" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ve_ScVZvAOvUn-qgx1SI-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ve_ScVZvAOvUn-qgx1SI-2" target="ve_ScVZvAOvUn-qgx1SI-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ve_ScVZvAOvUn-qgx1SI-2" value="montar combinação com os 4times&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="200" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ve_ScVZvAOvUn-qgx1SI-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ve_ScVZvAOvUn-qgx1SI-4" target="ve_ScVZvAOvUn-qgx1SI-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ve_ScVZvAOvUn-qgx1SI-4" value="Criar dicionário com os times e as estatísticas zeradas" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="120" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ve_ScVZvAOvUn-qgx1SI-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ve_ScVZvAOvUn-qgx1SI-7" target="ve_ScVZvAOvUn-qgx1SI-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ve_ScVZvAOvUn-qgx1SI-7" value="Rodar a randomização de gols feitos / sofridos nas 6 partidas" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="280" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ve_ScVZvAOvUn-qgx1SI-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ve_ScVZvAOvUn-qgx1SI-9" target="ve_ScVZvAOvUn-qgx1SI-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ve_ScVZvAOvUn-qgx1SI-9" value="Definir o resultado baseados nos gols da partida: derrota, empate ou vitória" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ve_ScVZvAOvUn-qgx1SI-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ve_ScVZvAOvUn-qgx1SI-11" target="ve_ScVZvAOvUn-qgx1SI-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ve_ScVZvAOvUn-qgx1SI-11" value="Atualizar estatísticas da lista-dicionário" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ve_ScVZvAOvUn-qgx1SI-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ve_ScVZvAOvUn-qgx1SI-13" target="ve_ScVZvAOvUn-qgx1SI-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ve_ScVZvAOvUn-qgx1SI-13" value="Rodar pela lista e definir quem terminou a roda com mais pontos" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ve_ScVZvAOvUn-qgx1SI-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ve_ScVZvAOvUn-qgx1SI-15" target="ve_ScVZvAOvUn-qgx1SI-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ve_ScVZvAOvUn-qgx1SI-15" value="Calcular o aproveitamento com as vitórias / o máx. de pontos possível" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ve_ScVZvAOvUn-qgx1SI-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ve_ScVZvAOvUn-qgx1SI-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="100" y="920" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ve_ScVZvAOvUn-qgx1SI-17" value="Mostrar o campeão, vitórias, derrotas, qtd de gols, pontuação, gols e aproveitamento" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="800" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fv6GLfOP9xAPZV697l4t-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fv6GLfOP9xAPZV697l4t-3" target="fv6GLfOP9xAPZV697l4t-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fv6GLfOP9xAPZV697l4t-8" value="Não" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="fv6GLfOP9xAPZV697l4t-6">
+          <mxGeometry x="0.2862" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fv6GLfOP9xAPZV697l4t-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fv6GLfOP9xAPZV697l4t-3" target="ve_ScVZvAOvUn-qgx1SI-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="180" y="985" />
+              <mxPoint x="180" y="60" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fv6GLfOP9xAPZV697l4t-9" value="Sim" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="fv6GLfOP9xAPZV697l4t-7">
+          <mxGeometry x="-0.9061" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fv6GLfOP9xAPZV697l4t-3" value="Perguntar ao usuário&amp;nbsp;&lt;div&gt;se deseja rodar&amp;nbsp;&lt;/div&gt;&lt;div&gt;uma nova simulçao&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="25" y="920" width="150" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="fv6GLfOP9xAPZV697l4t-5" value="Fim" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1080" width="120" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
